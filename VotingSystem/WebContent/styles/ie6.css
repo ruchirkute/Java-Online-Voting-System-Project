@@ -1,0 +1,34 @@
+#header ul li a, #footer div div.section ul li a  {
+	display: inline-block;
+}
+
+#header div#tagline {
+	height: 353px;
+}
+
+#content div div.section div#sidebar {
+	margin-left: 29px;
+}
+
+#footer div div.section ul li {
+	border-right: 1px solid #6886a0;
+	border-left: none;
+}
+
+#footer div div.section ul li a {
+	line-height: 10px;
+	padding-top: 2px;
+}
+
+#content div ul.services {
+	padding: 0 0 20px 0;
+}
+
+#content div ul.services li {
+	margin-right: 0;
+	width: 280px;
+}
+
+#content div div.first {
+	height: 90px;
+}
